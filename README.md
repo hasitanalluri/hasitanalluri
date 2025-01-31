@@ -1,4 +1,4 @@
-# About me
+# About Me
 
 - 🔭 I’m currently working on getting familiar with GitHub!
 - 🧪 I’m looking to collaborate on data science projects in medicine. 
